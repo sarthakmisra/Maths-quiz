@@ -6,3 +6,6 @@
     float:none;
     text-align: left;
 }
+#player1_name, #player2_name {
+    display: inline-block;
+}
